@@ -68,3 +68,4 @@ app.use("/api/v1/user", userRoute);
 app.listen(PORT, () => {
     console.log(`SERVER RUNNING ON PORT ${PORT}`);
 });
+ 
